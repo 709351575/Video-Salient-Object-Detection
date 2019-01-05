@@ -33,3 +33,7 @@ Please run dynamic.py first to train the network and output_dynamic.py later to 
 To get weight file and the full dataset, please click the following link for downloading:
 
 We randomly split the whole dataset and train, where 80 percent is used for training and the rest is left for evaluation.
+
+Our results (MAE) are sightly improved over the original scores reported in our paper:
+
+Static : 0.035 Dynamic : 0.037
