@@ -11,11 +11,16 @@ output.py : output static salient images after training
 
 # Dynamic
 This part is intended for saliency network for spatiotemporal features underlying frames.
+
 static.py : the training code for the static network
+
 dynamic.py : the training code for the dynamic network
+
 models2.py : ss_vgg describes the static network while the ds_vgg describes the dynamic network
+
 output_dynamic : output dynamic salient images after training
-output_static
+
+output_static : output static salient images after training
 
 # Dataset
 To get weight file and the full dataset, please click the following link for downloading:
