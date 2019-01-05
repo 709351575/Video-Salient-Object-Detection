@@ -1,7 +1,7 @@
 # Installation
 Before running the code, please type 'pip install tensorflow' and 'pip install keras' in command line to install keras
 
-In case of any problems, please type 'pip install pillow'.
+In case of any problems when loading images, please type 'pip install pillow'.
 
 # Static
 This part is used to train evaluate saliency network for static images. 
