@@ -33,6 +33,7 @@ Please run dynamic.py first to train the network and output_dynamic.py later to 
 To get weight file and the full dataset, please click the following link for downloading:
 
 Static link : https://pan.baidu.com/s/1xrg5ey1IGoO-r6C1TkuqgQ
+
 Dynamic link : https://pan.baidu.com/s/1HnsEpXR9thQrg4EabR2tjQ
 
 We randomly split the whole dataset and train, where 80 percent is used for training and the rest is left for evaluation.
