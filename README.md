@@ -40,4 +40,4 @@ We randomly split the whole dataset and train, where 80 percent is used for trai
 
 Our results (MAE) are sightly improved over the original scores reported in our paper:
 
-Static : 0.035 Dynamic : 0.037
+Static : 0.035 Dynamic : 0.0377
